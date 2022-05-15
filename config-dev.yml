@@ -1,4 +1,4 @@
 config:
-  info: "config-dev.yml main version=1"
+  info: "config.info config-dev.yml main version=1"
   
-aaa: "config-dev.yml main version=1"
+aaa: "aaa config-dev.yml main version=1"
