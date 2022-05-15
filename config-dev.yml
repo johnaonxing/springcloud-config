@@ -1,1 +1,2 @@
-123123123
+config:
+  info:"config-dev.yml main version=1"
